@@ -36,7 +36,7 @@
 	{
 		echo "Dados gravados com sucesso";
 		header ("Location: form_atracoes.php?b=sucesso")
-		echo "TESTE GIT";
+		echo "TESTE GIT 2 DESSA PORRA";
 	}
 		
 	
